@@ -1,2 +1,2 @@
 # flash-chat-flutter
- basic- angela yu- need more work for multiuser
+ basic app- inspired by angela yu- need more work for multiuser
